@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-client-core-3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/opensaml-1.1b.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/xmlsec-1.3.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-core-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-extension-clearpass-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-integration-ehcache-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-integration-jboss-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-integration-memcached-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-integration-restlet-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-generic-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-jdbc-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-ldap-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-legacy-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-oauth-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-openid-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-radius-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-spnego-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-trusted-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/cas-server-support-x509-3.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
